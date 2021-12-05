@@ -13,9 +13,11 @@ public abstract class Solution {
 	
 	protected Collection<Bank> filter(final Collection<Bank> banks, final int filter, final String ... args) {
 		
+		/*
 		if((banks == null || args == null || 1 < args.length) && filter != 7) {
 			System.err.println("Invalid inputs ...");
 		}
+		*/
 		
 		Collection<Bank> temp = Collections.emptyList();
 		switch (filter) {
