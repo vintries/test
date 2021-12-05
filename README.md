@@ -2,7 +2,7 @@
 
 Steps to run the program:  ---  Java 8 must be installed on machine.
 
-1: go to build directory ---  <path>/sol/build > java -jar app.jar
+1: go to build directory ---  <path>/sol/build > 
   
   
 2: execute command :  java -jar app.jar
