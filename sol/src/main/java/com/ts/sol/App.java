@@ -8,7 +8,7 @@ public class App
 	
     public static void main( String[] args ) throws IOException
     {
-    	System.out.println( "Starting app..." );
+    	System.out.println( "Starting app ..." );
     	Terminal terminal = new Terminal(new FileBasedSolution(getFile()));
     	terminal.start();
     }
